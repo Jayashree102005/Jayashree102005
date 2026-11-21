@@ -1,22 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e3a8a,100:38bdf8&height=260&section=header&text=Jayashree%20Kannan&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Frontend%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:161b22,100:1f6feb&height=240&section=header&text=Jayashree%20Kannan&fontSize=52&fontColor=e6edf3&animation=fadeIn&fontAlignY=38&desc=Frontend%20%7C%20MERN%20Stack%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=8b949e" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Jayashree+👋;Frontend+Developer+⚛️;MERN+Stack+Developer+🚀;Full+Stack+Developer+💻;Building+HR+%26+CRM+software+with+React+%26+Node" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+responsive+web+apps+with+React;Learning+and+shipping+with+the+MERN+stack;Turning+designs+into+clean+interfaces" alt="Typing SVG" />
 </a>
 
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayashreekannan05/)
+[![Email](https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:jayashreelife123@gmail.com)
+![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-161b22?style=for-the-badge&logo=vercel&logoColor=white)
+![Views](https://komarev.com/ghpvc/?username=Jayashree102005&label=Profile%20Views&color=1f6feb&style=for-the-badge)
+
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Jayashree102005&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Jayashree102005?style=for-the-badge&logo=github&color=181717)
-![Repos](https://img.shields.io/github/search/Jayashree102005/ZenHR?style=for-the-badge&label=ZenHR&logo=github&color=38bdf8)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayashreekannan05/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayashreelife123@gmail.com)
-![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-black?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
@@ -24,45 +21,37 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Junior Software Developer** who loves turning ideas and designs into clean, user-friendly web apps. I have **7 months of hands-on experience** as a **Junior Frontend Developer at Growwpark Technologies Pvt Ltd, Hosur**, and I'm now growing into a **MERN Stack / Full Stack Developer**.
+I'm a **Junior Software Developer** with **7 months of hands-on experience** as a **Junior Frontend Developer at Growwpark Technologies Pvt Ltd, Hosur**. I turn designs into clean, user-friendly interfaces and I'm growing into a **MERN Stack / Full Stack Developer**.
 
-```js
-const jayashree = {
-  role: "Junior Software Developer",
-  company: "Growwpark Technologies Pvt Ltd",
-  experience: "7 months",
-  skills: ["React", "Node.js", "Express", "MongoDB", "Tailwind"],
-  currentlyLearning: "MERN Stack Development",
-  recentProject: "ZenHR",
-  openToWork: true,
-};
-```
+- 💼 Frontend Developer at **Growwpark Technologies Pvt Ltd**
+- 🌱 Currently learning: **MERN Stack Development**
+- 🔨 Recently built: **ZenHR**, an HR management and CRM platform
+- 🤝 Open to new opportunities and collaborations
 
 ---
 
-## 🎬 Project Demo: ZenHR
+<!-- OPTIONAL developer GIF: upload a coding GIF to an "assets" folder as developer.gif, then delete the arrows on the 3 lines below
+<div align="center"><img src="./assets/developer.gif" alt="Developer coding" width="500"/></div>
+-->
 
-<!-- Drag and drop your screen recording (.mp4) onto the line below while editing. GitHub will replace this text with a video link. -->
-PASTE-YOUR-VIDEO-HERE
+## 🚀 Featured Project: ZenHR
 
 <div align="center">
 
-### 🧘 ZenHR: Human Resource Management & CRM Software
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-161b22?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-zen--hr--kel7.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zen-hr-kel7.vercel.app)
-[![Source Code](https://img.shields.io/badge/📂_Source_Code-ZenHR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayashree102005/ZenHR)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-zen--hr--kel7.vercel.app-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://zen-hr-kel7.vercel.app)
+[![Source Code](https://img.shields.io/badge/Source_Code-ZenHR-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayashree102005/ZenHR)
 
 </div>
 
-A full stack **MERN** application that brings HR operations, team management, and client tracking into one platform, with a **separate dashboard for each role**.
+A full stack **MERN** application that brings HR operations, team management and client tracking into one platform, with a **separate dashboard for each role**.
 
 <details>
-<summary><b>🔑 Role-Based Dashboards (click to expand)</b></summary>
+<summary><b>🔑 Role-based dashboards</b></summary>
 
 <br/>
 
@@ -73,18 +62,18 @@ A full stack **MERN** application that brings HR operations, team management, an
 </details>
 
 <details>
-<summary><b>✨ Key Features (click to expand)</b></summary>
+<summary><b>✨ Key features</b></summary>
 
 <br/>
 
-- 👥 **Employee management**: add, edit, view and manage the employee directory
-- 🧑‍💼 **HR management**: dedicated tools for HR workflows
-- 🕒 **Attendance tracking**: check-in/check-out with a live attendance rate
+- 👥 **Employee management**: add, edit, view and manage the directory
+- 🧑‍💼 **HR management**: tools for HR workflows
+- 🕒 **Attendance**: check-in/check-out with a live attendance rate
 - 🌴 **Leave management**: apply for and track leave requests
 - 💸 **Payslips**: view and manage employee payslips
 - ✅ **Tasks and projects**: assign and track work across the team
-- 🤝 **Client management**: CRM module to manage clients
-- 🔐 **Authentication and role-based access** for Admin, HR and Employee
+- 🤝 **Client management**: CRM module
+- 🔐 **Authentication and role-based access**
 
 </details>
 
@@ -102,63 +91,23 @@ A full stack **MERN** application that brings HR operations, team management, an
 
 </div>
 
-| Area | Technologies |
-|------|--------------|
-| 🎨 **Frontend** | HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS |
-| ⚙️ **Backend** | Node.js, Express.js |
-| 🗄️ **Databases** | MongoDB, MySQL |
-| 🌐 **CMS** | WordPress, Elementor |
-| 🧰 **Tools** | Git, GitHub, VS Code, Postman |
-
----
-
-## 🎯 What I Do
-
-<div align="center">
-
-| 🖥️ Frontend Developer | ⚛️ MERN Stack Developer | 🌍 Full Stack Developer |
-|:---:|:---:|:---:|
-| Clean UIs with React, Tailwind and Bootstrap | Building apps with MongoDB, Express, React, Node | End-to-end web apps, from database to UI |
-
-</div>
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jayashree102005&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayashree102005&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jayashree102005&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayashree102005&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Jayashree102005&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayashree102005&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayashree102005&theme=github-dark&hide_border=true&area=true&bg_color=0d1117" width="100%" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Jayashree102005/Jayashree102005/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
-
-</div>
-
-<!-- The snake only appears after you add the workflow file (see my instructions). -->
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:38bdf8&height=140&section=footer" width="100%"/>
-
-⭐ If you like any of my projects, feel free to give them a star! ⭐
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,40:161b22,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
