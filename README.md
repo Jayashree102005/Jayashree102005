@@ -103,10 +103,6 @@ A full stack **MERN** application that brings HR operations, team management and
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jayashree102005&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayashree102005&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jayashree102005&theme=onedark&no-frame=true&no-bg=true&row=1&margin-w=15" />
-
-<br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayashree102005&theme=github-dark&hide_border=true&area=true&bg_color=0d1117" width="100%" />
 
 </div>
@@ -114,6 +110,16 @@ A full stack **MERN** application that brings HR operations, team management and
 ---
 
 <div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+If you like my projects, please support me:
+
+[![Star ZenHR](https://img.shields.io/badge/⭐_Star-ZenHR_Repo-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayashree102005/ZenHR)
+[![Follow](https://img.shields.io/badge/👤_Follow-Jayashree102005-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayashree102005)
+[![Connect](https://img.shields.io/badge/🤝_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayashreekannan05/)
+
+⭐ Star the repo &nbsp;•&nbsp; 👤 Follow me &nbsp;•&nbsp; 🤝 Let's connect ⭐
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,40:161b22,100:0d1117&height=120&section=footer" width="100%"/>
 
