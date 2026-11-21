@@ -113,7 +113,7 @@ A full stack **MERN** application that brings HR operations, team management and
 
 ### 💙 Thanks for visiting my profile!
 
-If you like my projects, please support me:
+Like my work? Let's connect and grow together!
 
 [![Star ZenHR](https://img.shields.io/badge/⭐_Star-ZenHR_Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayashree102005/ZenHR)
 [![Follow](https://img.shields.io/badge/👤_Follow-Jayashree102005-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayashree102005)
