@@ -48,9 +48,8 @@ and I'm growing into a **MERN / Full Stack Developer**.
 
 <table>
   <tr>
-    <td align="center" width="33%">🏢<br/><b>Helios Business Solutions</b><br/>Chennai<br/><sub>Software Developer</sub></td>
-    <td align="center" width="33%">🏢<br/><b>Growwpark Technologies Pvt Ltd</b><br/>Hosur<br/><sub>Junior Frontend Developer · 7 months</sub></td>
-    <td align="center" width="33%">🎓<br/><b>Abzeno</b><br/><sub>Full Stack Developer Intern</sub></td>
+    <td align="center" width="50%">🏢<br/><b>Growwpark Technologies Pvt Ltd</b><br/>Hosur<br/><sub>Junior Frontend Developer · 7 months</sub></td>
+    <td align="center" width="50%">🎓<br/><b>Abzeno</b><br/><sub>Full Stack Developer Intern</sub></td>
   </tr>
 </table>
 
