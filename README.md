@@ -25,17 +25,32 @@
 
 <div align="center">
 
-I'm a **Junior Software Developer** with **7 months of hands-on experience** as a **Junior Frontend Developer** at **Growwpark Technologies Pvt Ltd, Hosur**.<br/>
-I turn designs into clean, user-friendly interfaces, and I'm growing into a **MERN / Full Stack Developer**.
+I'm a **Software Developer** who turns designs into clean, user-friendly interfaces,<br/>
+and I'm growing into a **MERN / Full Stack Developer**.
 
 <br/>
 
 <table>
   <tr>
-    <td align="center" width="25%">💼<br/><b>Working at</b><br/>Growwpark Technologies</td>
-    <td align="center" width="25%">🌱<br/><b>Learning</b><br/>MERN Stack</td>
-    <td align="center" width="25%">🔨<br/><b>Recently built</b><br/>ZenHR (HR + CRM)</td>
-    <td align="center" width="25%">🤝<br/><b>Open to</b><br/>Opportunities and collabs</td>
+    <td align="center" width="33%">🌱<br/><b>Learning</b><br/>MERN Stack</td>
+    <td align="center" width="33%">🔨<br/><b>Recently built</b><br/>ZenHR (HR + CRM)</td>
+    <td align="center" width="33%">🤝<br/><b>Open to</b><br/>Opportunities and collabs</td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2e1065,6d28d9,a78bfa&height=2&section=header" width="100%" alt="divider"/>
+
+<h2 align="center">💼 Experience</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="33%">🏢<br/><b>Helios Business Solutions</b><br/>Chennai<br/><sub>Software Developer</sub></td>
+    <td align="center" width="33%">🏢<br/><b>Growwpark Technologies Pvt Ltd</b><br/>Hosur<br/><sub>Junior Frontend Developer · 7 months</sub></td>
+    <td align="center" width="33%">🎓<br/><b>Abzeno</b><br/><sub>Full Stack Developer Intern</sub></td>
   </tr>
 </table>
 
