@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2e1065,50:6d28d9,100:a78bfa&height=260&section=header&text=Jayashree%20Kannan&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Frontend%20%7C%20MERN%20Stack%20%7C%20Full%20Stack%20Developer&descAlignY=62&descSize=18&descColor=ddd6fe" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:6d28d9,100:a78bfa&height=240&section=header&text=Jayashree%20Kannan&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%7C%20MERN%20Stack%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=18&descColor=ede9fe" width="100%" alt="Header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&height=40&lines=Building+responsive+web+apps+with+React;Learning+and+shipping+with+the+MERN+stack;Turning+designs+into+clean+interfaces" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=650&height=40&lines=Building+responsive+web+apps+with+React;Learning+and+shipping+with+the+MERN+stack;Turning+designs+into+clean+interfaces" alt="Typing animation" />
 </a>
 
 <br/>
